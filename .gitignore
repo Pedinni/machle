@@ -45,3 +45,6 @@ env/
 
 # OS
 Thumbs.db
+
+# Data files
+Motor_Vehicle_Collisions_-_Crashes.csv
